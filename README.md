@@ -1,5 +1,5 @@
 # view-blog
-![banner-fos](https://1.bp.blogspot.com/-D7E6AaSLFUY/XyVEyOaYjMI/AAAAAAAAAN4/3i7lmjxjp_ghjnjs-fQcLG7z3GwmPWfWQCLcBGAsYHQ/s861/Screenshot_20200801_160126.jpg)
+
  #### We create this php script for Increase Website or Blog View and ranked your website on Google Search
  
  ## Termux 
@@ -20,12 +20,12 @@
  [![Alt text](https://1.bp.blogspot.com/-rdi8kcWM5bw/XyVHSyYx0KI/AAAAAAAAAOE/G5y9xvtgEhwmjJ6niVUWSQ4-VMmnMaORwCLcBGAsYHQ/s2048/Picture_20200719_155149686.jpg)](https://youtu.be/vVOadS6ercM)
   
  ## :octocat:Credits:
-* Termux Professor: [Youtuber | Developer](https://www.youtube.com/c/TermuxProfessor)
+* MiniD3vil: [Youtuber | Developer](https://youtube.com/channel/UCKtsYPhsmbdpHmRPrNHRCDA)
 
  ## Support !
   Email address: dvilmini@gmail.com  for more details.
 
-  [Youtube](https://www.youtube.com/c/TermuxProfessorYT)
+  [Youtube](https://youtube.com/channel/UCKtsYPhsmbdpHmRPrNHRCDA)
 
   [Blog](https://www.getredeemcode.com)
 
