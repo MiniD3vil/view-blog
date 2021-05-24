@@ -16,8 +16,10 @@
 ## :heavy_exclamation_mark:Requirements
      Linux operating system with php (Kali linux, Termux (or) other Linux OS) or windows with php installed.
        
-## Demo
- [![Alt text](https://1.bp.blogspot.com/-rdi8kcWM5bw/XyVHSyYx0KI/AAAAAAAAAOE/G5y9xvtgEhwmjJ6niVUWSQ4-VMmnMaORwCLcBGAsYHQ/s2048/Picture_20200719_155149686.jpg)](https://youtu.be/vVOadS6ercM)
+## Watch Video
+
+   
+ 
   
  ## :octocat:Credits:
 * MiniD3vil: [Youtuber | Developer](https://youtube.com/channel/UCKtsYPhsmbdpHmRPrNHRCDA)
@@ -27,7 +29,7 @@
 
   [Youtube](https://youtube.com/channel/UCKtsYPhsmbdpHmRPrNHRCDA)
 
-  [Blog](https://www.getredeemcode.com)
+  [Blog](https://www.minid3vil.blogspot.com)
 
   [Telegarm Group](https://t.me/Mini_D3vil_333)
 
